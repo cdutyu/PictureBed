@@ -24,7 +24,7 @@
 * 设定仓库名: `GitHub用户名/仓库名`
 * 设定分支名: `分支名`，一般填 `main`
 * 设定 Token: 在 [GitHub 的开发者设置](https://github.com/settings/tokens) 中选择 `Generate new token (classic)`：有效期设置为 `无有效期`，`设置作用域(Select scopes)` 仅勾选 `repo`。复制 token 并填入该 `设定Token` 位置
-* 指定存储路径: `仓库中图片保存位置对应文件夹路径`
+* 指定存储路径: `仓库中图片保存位置对应文件夹路径`，例如`image/`
 * 设定自定义域名: `https://cdn.jsdelivr.net/gh/GitHub用户名/仓库名/`
 
 3. 点击 `设置为默认图床` 和 `确定`
